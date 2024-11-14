@@ -1,4 +1,4 @@
-// /**连接配置*/
+// /**连接配置*/ 地址
 
 import { _decorator } from 'cc';
 const GameConfig = {
